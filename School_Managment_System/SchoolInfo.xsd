@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SchoolInfo" targetNamespace="http://tempuri.org/SchoolInfo.xsd" xmlns:mstns="http://tempuri.org/SchoolInfo.xsd" xmlns="http://tempuri.org/SchoolInfo.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="SchoolInfo" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="SchoolInfo" msprop:Generator_UserDSName="SchoolInfo">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SchoolInfo" msprop:Generator_TableClassName="SchoolInfoDataTable" msprop:Generator_TableVarName="tableSchoolInfo" msprop:Generator_TablePropName="_SchoolInfo" msprop:Generator_RowDeletingName="SchoolInfoRowDeleting" msprop:Generator_RowChangingName="SchoolInfoRowChanging" msprop:Generator_RowEvHandlerName="SchoolInfoRowChangeEventHandler" msprop:Generator_RowDeletedName="SchoolInfoRowDeleted" msprop:Generator_UserTableName="SchoolInfo" msprop:Generator_RowChangedName="SchoolInfoRowChanged" msprop:Generator_RowEvArgName="SchoolInfoRowChangeEvent" msprop:Generator_RowClassName="SchoolInfoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SchoolName" msprop:Generator_ColumnVarNameInTable="columnSchoolName" msprop:Generator_ColumnPropNameInRow="SchoolName" msprop:Generator_ColumnPropNameInTable="SchoolNameColumn" msprop:Generator_UserColumnName="SchoolName" type="xs:string" minOccurs="0" />
+              <xs:element name="Address" msprop:Generator_ColumnVarNameInTable="columnAddress" msprop:Generator_ColumnPropNameInRow="Address" msprop:Generator_ColumnPropNameInTable="AddressColumn" msprop:Generator_UserColumnName="Address" type="xs:string" minOccurs="0" />
+              <xs:element name="schoolLogo" msprop:Generator_ColumnVarNameInTable="columnschoolLogo" msprop:Generator_ColumnPropNameInRow="schoolLogo" msprop:Generator_ColumnPropNameInTable="schoolLogoColumn" msprop:Generator_UserColumnName="schoolLogo" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
