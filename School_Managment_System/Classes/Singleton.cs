@@ -21,6 +21,7 @@ namespace School_Managment_System
 
                 //connection = new SqlConnection("Data Source=DESKTOP-PTH0QEP\\SQLEXPRESS; Initial Catalog=sms;Integrated Security=True");
                 //connection = hjsdhjkfa sf hajkshfkajhsjkdfa ksdfa sdfjkasdh
+                //ya wala commit dekhty hai howa ky nai
 
                 return connection;
 
