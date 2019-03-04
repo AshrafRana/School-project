@@ -16,13 +16,16 @@ namespace School_Managment_System
         {
             if (connection == null)
             {
-                
-                connection = new SqlConnection(@"Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\sms.mdf;Integrated Security=True;");
+
+                //"Data Source=.\SQLEXPRESS;AttachDbFilename=filepath\bin\Debug\MyDB.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True"
+
+
+              //  connection = new SqlConnection(@"Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\sms.mdf;Integrated Security=True;");
+
+                connection = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\sms.mdf;Integrated Security=True;");
 
                 //connection = new SqlConnection("Data Source=DESKTOP-PTH0QEP\\SQLEXPRESS; Initial Catalog=sms;Integrated Security=True");
-                //connection = hjsdhjkfa sf hajkshfkajhsjkdfa ksdfa sdfjkasdh
-                //ya wala commit dekhty hai howa ky nai
-
+                
                 return connection;
 
             }
