@@ -142,3 +142,5 @@ D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_Sys
 D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Release\School_Managment_System.csproj.CopyComplete
 D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Release\School_Managment_System.exe
 D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Release\School_Managment_System.pdb
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Release\Data\sms.mdf
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Release\Data\sms_log.ldf

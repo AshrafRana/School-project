@@ -673,6 +673,8 @@ D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_Sys
 D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
 D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
 D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Data\sms_log.ldf
+D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\Data\sms.mdf
 D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe.config
 D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe
 D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.pdb
@@ -812,4 +814,3 @@ D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_Sys
 D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.CopyComplete
 D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe
 D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.pdb
-D:\8-10-2017 school\apna sms system\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csprojAssemblyReference.cache
